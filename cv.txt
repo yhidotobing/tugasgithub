@@ -1,1 +1,3 @@
 "Ini adalah file CV".
+Perusahaan yang akan dilamar :
+1. Tokopedia
